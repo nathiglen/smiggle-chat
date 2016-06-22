@@ -1,5 +1,5 @@
-# smiggle-chat
-Smiggle Chat - PHP chat written using CodeIgniter PHP framework and Bootstrap
+
+
 1. Log on to your mysql and create database called 'smiggle'. 
 
 2. Inside smiggle database, createor dump the following table structures:
@@ -63,6 +63,12 @@ CREATE TABLE IF NOT EXISTS `chats` (
 
 
 5. Launch the application by copying and pasting this "http://127.0.0.1/smiggle-chat/" into your web browser.
+
+
+
+
+
+
 
 
 
